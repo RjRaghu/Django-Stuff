@@ -1,0 +1,135 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the exe, so as to inject date/other infos into it.
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Django stuff:
+*.log
+*.pot
+*.pyc
+*.pyo
+__pycache__/
+db.sqlite3
+media
+
+# If your project includes translations
+*.mo
+
+# Static and media files (optional)
+staticfiles/
+media/
+
+# Local environment settings
+.env
+
+# Virtual environment
+venv/
+ENV/
+env/
+env.bak/
+venv.bak/
+
+# VS Code
+.vscode/
+
+# PyCharm
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# MySQL database
+*.sql
+
+# Postgres database
+*.dump
+
+# Other
+*.pdf
+*.sqlite3
+.DS_Store
+*.mp4
+*.avi
+*.flv
+*.mov
+*.mkv
+*.mpg
+*.mpeg
+*.mp3
+*.wav
+*.flac
+*.m4a
+*.aac
+*.wma
+*.wmv
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.svg
+*.bmp
+*.ico
+*.tif
+*.tiff
+*.webp
+*.heif
+*.heic
+*.json
+*.xml
+*.yaml
+*.yml
+*.toml
+*.ini
+*.conf
+*.cfg
+*.lst
+*.log
+*.sql
+*.tar
+*.tgz
+*.gz
+*.bz2
+*.xz
+*.zip
+*.7z
+*.rar
+*.rpm
+*.deb
+*.pkg
+*.msi
+*.exe
+*.bat
+*.sh
+*.command
